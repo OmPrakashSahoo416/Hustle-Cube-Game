@@ -1,0 +1,1 @@
+This folder includes all the scripts involved in the process of game development in husle cube runner game the fisrt game.
